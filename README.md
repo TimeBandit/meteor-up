@@ -60,7 +60,7 @@ This version of Meteor Up is powered by [Docker](http://www.docker.com/) and it 
 
     mkdir ~/my-meteor-deployment
     cd ~/my-meteor-deployment
-    mupx init
+    mup init
 
 This will create two files in your Meteor Up project directory:
 
